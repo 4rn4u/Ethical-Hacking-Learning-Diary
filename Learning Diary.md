@@ -6,11 +6,11 @@
  ---
  
 ### 18/08/25 Monday
-Today we started Ethical Hacking and I set up my learning workflow. I checked and configured the Cisco course, created/organized my GitHub repo, and decided to pursue the **KLCP (Kali Linux Certified Professional)** using my OffSec voucher. Spent the afternoon going through the course and doing light practice in **authorized** lab VMs only.
+Today we started Ethical Hacking and I set up my learning workflow. I checked and configured the Cisco course, created/organized my GitHub repo, and decided to pursue the **KLCP (Kali Linux Certified Professional)** (https://www.offsec.com/courses/pen-103/?utm_source=kali&utm_medium=web&utm_campaign=menu) using my OffSec voucher. Spent the afternoon going through the course and doing light practice in VMs labs.
 - **Hours logged:** **7.5h** (3h class + 4.5h study, 16:00–20:30)
-- **Class kick-off / setup:** syllabus review, repo & folder structure (`images/`, `writeups/`, `scans/`), time-tracking sheet, Cisco course access verified.
-- **KLCP prep (theory & workflow):** Kali layout, package mgmt, system services, basic networking, terminal productivity (history, pipes, redirection).
-- **I practiced** (authorized lab only): baseline recon and system checks; keeping outputs minimal/sanitized.
+- **Class kick-off / setup:** syllabus review, repo & folder structure, time-tracking sheet, Cisco course access verified.
+- **KLCP prep (theory & workflow):** Kali layout, packages, system services, basic networking, terminal productivity (history, pipes, redirection).
+- **I practiced**: baseline recon and system checks; keeping outputs minimal/sanitized.
 
 ---
 ### 19/08/25 Tuesday
@@ -44,7 +44,7 @@ Rest day!
 
 ---
 ### 24/08/25 Sunday
-Shifting focus to wireless: I decided to pursue the **OSWP (OffSec Wireless Professional)** and mapped out a prep plan. Kicked off the first wireless labs, getting comfortable with monitor mode and packet capture fundamentals. Spent time with the **airmon** tools (aircrack-ng suite) and refreshed **Wireshark** basics for 802.11 traffic. I'm using Wifi Challenge Lab (https://v1lab.wifichallenge.com/challenges)
+Shifting focus to wireless: I decided to pursue the **OSWP (OffSec Wireless Professional)** https://www.offsec.com/courses/pen-210/ and mapped out a prep plan. Kicked off the first wireless labs, getting comfortable with monitor mode and packet capture fundamentals. Spent time with the **airmon** tools (aircrack-ng suite) and refreshed **Wireshark** basics for 802.11 traffic. I'm using Wifi Challenge Lab (https://v1lab.wifichallenge.com/challenges)
 - **Hours logged:** **6h** (15:00–21:00)
 - **Activities:**
     - Defined OSWP study plan and milestones (802.11 fundamentals → tooling → structured labs).
