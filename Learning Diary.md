@@ -51,3 +51,11 @@ Shifting focus to wireless: I decided to pursue the **OSWP (OffSec Wireless Prof
     - Lab setup: verified wireless adapter, switched between managed/monitor modes, practiced passive recon only.
     - Wireshark refresher: interface selection, capture filters vs. display filters, identifying management vs. data frames.
 
+### 25/08/25 Monday
+Continued with OSWP preparation by buying the Alfa **AWUS036ACS** USB adapter and a **TP-LINK TL-WR841N** for an isolated lab AP, then sat the 3h online class and spent another ~3.5h configuring the AP (dedicated SSID/channel, WPS enabled only for the lab, WAN blocked), validating the adapter (monitor mode and injection), doing a quick survey, and practicing WPS workflows (wash/reaver/bully) strictly against my own setup while capturing PCAPs and noting timings and outcomes. **Hours logged: 6.5h (3h class + 3.5h lab).**
+
+### 26/08/25 Tuesday
+Kept the focus tight on WPA/EAPOL mechanics for about 2h: reviewed the four-way handshake (ANonce/SNonce, PTK/MIC, GTK install), compared management vs. data frames, and walked through my own captures in Wireshark to verify message order and MICs; in the lab I refined capture hygiene (locking channel, clean deauth/re-assoc only on my test client) and labeled/archived PCAPs for use in later cracking exercises. **Hours logged: 2h.**
+
+### 27/08/25 Wednesday
+Wrapped the mini-sprint with a 3h class in karamalmi followed by 3h of applied WPA practice in the lab, repeatedly capturing reliable handshakes and validating the toolchain (aircrack-ng/hashcat) against known test passphrases to confirm everything.  **Hours logged: 6h (3h class + 3h lab).**
